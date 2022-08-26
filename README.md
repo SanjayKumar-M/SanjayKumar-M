@@ -43,7 +43,7 @@
 
 <p>
     <a href="#"><img alt="C" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" height="20px" width="20px"></a>
-    <a href="#"><img alt="C" src=" https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height="20px" width="20px"></a>
+    <a href="#"><img alt="C" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height="20px" width="20px"></a>
     <a href="#"><img alt="C" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" height="20px" width="20px"></a>
     <a href="#"><img alt="C" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" height="20px" width="20px"></a>
     <a href="#"><img alt="C" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" height="20px" width="20px"></a>
