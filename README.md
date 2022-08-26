@@ -48,6 +48,8 @@
     <a href="#"><img alt="C" src="https://cdn-icons-png.flaticon.com/512/174/174854.png" height="50" width="50"></a>
     <a href="#"><img alt="C" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" height="50" width="50"></a>
     <a href="#"><img alt="C" src="https://img.icons8.com/plasticine/344/bash.png" height="50" width="50"></a>
+   
+    <a href="#"><img alt="C" src=" https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_solidity_icon_130156.png" height="50" width="50"></a>
     
    
 </p>
