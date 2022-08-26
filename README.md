@@ -1,6 +1,6 @@
 # Hey there👋, Welcome to my Github Profile
 
-<img src="[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=bold&size=21&duration=4500&pause=&color=6C13F7&background=FF000000&multiline=true&width=435&height=52&lines=Web3+Dveloper+;Penetration+tester)](https://git.io/typing-svg)"/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=bold&size=21&duration=4500&pause=&color=6C13F7&background=FF000000&multiline=true&width=435&height=52&lines=Web3+Dveloper+;Penetration+tester" alt="Typing SVG" /></a>
  
  <p>- <i>A comp-sci undergraduate student and a aspiring software developer with good problem-solving skills. Able to perform well in a team. Passionate about coding and equipped with a diverse and promising skill-set, placing a special emphasis on writing good quality code. Also regularly write technical content and articles for various popular tech sites.</i></p>
 
