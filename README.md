@@ -58,7 +58,7 @@
 ## Frameworks and Libraries
 <p>
    <a href="#"><img alt="C" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" height="50px" width="50px"></a>
-   <a href="#"><img alt="C" src="https://cdn4.iconfinder.com/data/icons/logos-3/456/nodejs-new-pantone-black-512.png" height="50px" width="50px" style="margin-right: 30px;"></a>
+   <a href="#"><img alt="C" src="https://cdn4.iconfinder.com/data/icons/logos-3/456/nodejs-new-pantone-black-512.png" height="50px" width="50px" style="margin-right: 30px"></a>
    <a href="#"><img alt="C" src="https://seeklogo.com/images/N/next-js-logo-7929BCD36F-seeklogo.com.png" height="50px" width="50px"></a>
    <a href="#"><img alt="C" src="https://seeklogo.com/images/B/bootstrap-logo-69A1CCC10B-seeklogo.com.png" height="50px" width="50px"></a>
    <a href="#"><img alt="C" src="https://seeklogo.com/images/D/django-logo-182231C1BB-seeklogo.com.png" height="50px" width="50px"></a>
