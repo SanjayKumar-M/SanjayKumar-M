@@ -44,9 +44,11 @@
 <p>
     <a href="#"><img alt="C" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" height="20px" width="20px"></a>
     <a href="#"><img alt="C" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height="20px" width="20px"></a>
-    <a href="#"><img alt="C" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" height="20px" width="20px"></a>
-    <a href="#"><img alt="C" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" height="20px" width="20px"></a>
-    <a href="#"><img alt="C" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" height="20px" width="20px"></a>
+    <a href="#"><img alt="C" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" height="20px" width="20px"></a>
+    <a href="#"><img alt="C" src="https://cdn-icons-png.flaticon.com/512/174/174854.png" height="20px" width="20px"></a>
+    <a href="#"><img alt="C" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" height="20px" width="20px"></a>
+    <a href="#"><img alt="C" src="https://img.icons8.com/plasticine/344/bash.png" height="20px" width="20px"></a>
+    
    
 </p>
 
