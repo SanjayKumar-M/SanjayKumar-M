@@ -1,64 +1,31 @@
-<p align="center"><img src="https://raw.githubusercontent.com/SanjayKumar-M/SanjayKumar-M/master/cover-thompson.png"></p>
-<p align="center"><img src="https://raw.githubusercontent.com/SanjayKumar-M/SanjayKumar-M/master/header.png"></p>
+# 💫 About Me:
+🚀 Hey there! I'm Sanjay Kumar, a Final Year CS Grad 🎓 with a passion for building the digital future. <br><br>🌟 I'm a Blockchain Engineer and MERN Stack Developer<br><br>🔐 CyberSecurity enthusiast by day ☁️ Cloud computing aficionado by night✨<br><br>🛠️ Currently, I'm crafting EtherChat 💬✨<br><br>🔐🔒 I'm immersed in the world of Cryptography and unraveling the mysteries of Zero Knowledge. 🤫💻<br><br>🌐 I'm all ears for exciting collaborations, opportunities 🌍💡<br><br>💬 Let's chat about tech, exchange ideas, or discuss potential endeavors. 🌊👨‍💻<br><br>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/SanjayKumar-M/SanjayKumar-M/master/Hi.gif" width="30px">, I am Sanjay Kumar </h1>
 
-<p align="center" width="150px"> I have just kickstarted my career as a software developer intern after completing my undergraduation in the year 2021. <br>Soon, I would be joining New York University for Masters' of Computer Science program.</p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sk_sanjay_786) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjay-kumar-m-422627202) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sanjaymoad786) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/imsanjay29) 
 
-<p align="center"><b>Visitor's Count</b></p>
-<p align="center"><img src="https://profile-counter.glitch.me/%7BSanjayKumar-M%7D/count.svg" alt="visitor badge"/></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjayKumar-M&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=SanjayKumar-M&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
-<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=SanjayKumar-M&theme=chartreuse-dark"></p>
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SanjayKumar-M&theme=maroongold&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SanjayKumar-M&theme=maroongold&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SanjayKumar-M&theme=maroongold&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### 🛠 &nbsp;Tech Stack
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SanjayKumar-M&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=4)
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=777BB4)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=1075C2)&nbsp;
-![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel&logoColor=FF2D20)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=02569B)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json&logoColor=000000)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-05122A?style=flat&logo=sublime-text&logoColor=FF9800)&nbsp;
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
-![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-05122A?style=flat&logo=jupyter&logoColor=F37626)&nbsp;
-![Google Colab](https://img.shields.io/badge/-Google%20Colab-05122A?style=flat&logo=google-colab&logoColor=F9AB00)&nbsp;
-![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras&logoColor=D00000)&nbsp;
-![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv&logoColor=5C3EE8)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=336791)&nbsp;
-![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-05122A?style=flat&logo=apache-kafka&logoColor=231F20)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28)&nbsp;
-![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=tensorflow&logoColor=FF6F00)&nbsp;
-![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino&logoColor=00979D)&nbsp;
-![Latex](https://img.shields.io/badge/-Latex-05122A?style=flat&logo=latex&logoColor=008080)&nbsp;
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-### :link: &nbsp;Connect with me
-
-<p align="center">
-<a href="https://kevinpatel.me/blog"><img src="https://img.shields.io/badge/-kevinpatel.me-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/SanjayKumar-M"><img src="https://img.shields.io/badge/-Kevin%20Patel-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:patelkvin04@gmail.com"><img src="https://img.shields.io/badge/-patelkvin04@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/kevinpatel.me"><img src="https://img.shields.io/badge/-kevinpatel.me-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.leetcode.com/patelkvin04"><img src="https://img.shields.io/badge/-patelkvin04-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-<a href="https://twitter.com/patelkvin04"><img src="https://img.shields.io/badge/-patelkvin04-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-</p>
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-Credit: [SanjayKumar-M](https://github.com/SanjayKumar-M)
+[![](https://visitcount.itsvg.in/api?id=SanjayKumar-M&icon=8&color=12)](https://visitcount.itsvg.in)
 
-Last Updated On: 13/06/2021
+  ## 💰 You can help me by Donating
+  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/sanjayblock) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
