@@ -1,5 +1,5 @@
 # 💫 Whoami:
-🚀 Hey there! I'm Sanjay , a Final Year CS Grad 🎓 with a passion for building the digital future. <br><br>🌟 I'm a Blockchain Engineer and Full Stack Developer<br><br>🔐Full stack Developer by day ☁️ Blockchain engineering aficionado by night✨<br><br>🛠️ Currently, I'm exploring Backend engineering✨<br><br>🔐🔒 I'm immersed in the world of Cryptography and unraveling the mysteries of Zero Knowledge. 🤫💻<br><br>
+🚀 Hey there! I'm Sanjay , a Final Year CS Grad 🎓 with a passion for building the digital future. <br><br>🌟 I'm a Blockchain Engineer and Full Stack Developer<br><br>🔐Full stack Developer by day ☁️ Blockchain engineering aficionado by night✨<br><br>🛠️ Currently, I'm exploring Backend engineering with Rust✨<br><br>🔐🔒 I'm immersed in the world of Cryptography and unraveling the mysteries of Zero Knowledge. 🤫💻<br><br>
 
 
 ## 🌐 Socials:
