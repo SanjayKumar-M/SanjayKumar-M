@@ -1,5 +1,5 @@
 # 💫 Whoami:
-🚀 Hey there! I'm Sanjay , a Final Year CS Grad 🎓 with a passion for building the digital future. <br><br>🌟 I'm a Blockchain Engineer and Full Stack Developer<br><br>🔐Full stack Developer by day ☁️ Blockchain engineering aficionado by night✨<br><br>🛠️ Currently, I'm exploring Backend engineering with Golang✨<br><br>🔐🔒 Currently diving deep into Ethereum and exploring Solana and Sui Blockchain 🤫💻<br><br>
+🚀 Hey there! I'm Sanjay , currently building stuff @browserstack <br><br>🌟 Backend Engineer and Blockchain Dev <br><br>🔐 Dedicated myself to build the scalable and secure internet ✨<br><br>🛠️ System Design, Distributed Systems, Ethereum, Cybersecurity and Gen AI ✨<br><br>🔐🔒 learning everything 🤫💻<br><br>
 
 
 ## 🌐 Socials:
